@@ -15,6 +15,7 @@ author: Some Person
 
 navbar-links:
   Projects: "projects"
+  Blog: "blog.html"
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
