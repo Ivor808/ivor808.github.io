@@ -993,3 +993,24 @@ pre {
   display: block;
   margin: 0 auto;
 }
+
+table.GeneratedTable {
+  width: 100%;
+  background-color: #ffffff;
+  border-collapse: collapse;
+  border-width: 10px;
+  border-color: #ffffff;
+  border-style: solid;
+  color: #000000;
+}
+
+table.GeneratedTable td, table.GeneratedTable th {
+  border-width: 10px;
+  border-color: #ffffff;
+  border-style: solid;
+  padding: 5px;
+}
+
+table.GeneratedTable thead {
+  background-color: #ffcc00;
+}
