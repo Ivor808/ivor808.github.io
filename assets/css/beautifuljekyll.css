@@ -1000,7 +1000,7 @@ pre {
 
 body {
     margin:0;
-    background-color: red;
+    background-color: white;
     min-width: 359px;
 }
 
@@ -1048,7 +1048,7 @@ body {
 
 @media only screen and (max-width: 1025px) {
     body {
-      background-color: violet;
+      background-color: white;
     }
 
     .link-box {
